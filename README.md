@@ -1,16 +1,9 @@
 ## Hi there 👋
-
-<!--
-**Ayush-Rawat01/Ayush-Rawat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## I am Ayush Rawat
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning MERN STACK.
 - 👯 I’m looking to collaborate on various mern stack projects.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Dsa and development.
 - 💬 Ask me about ...coding , dsa , development
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
